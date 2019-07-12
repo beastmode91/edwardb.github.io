@@ -1,7 +1,11 @@
 ---
 layout: post
-title: Zach's Test Post
+title: Edward's Test Post
 ---
+
+Week 1 of METIS 
+
+## Holy crap I'm done with the first week
 
 This is a test post. 
 
